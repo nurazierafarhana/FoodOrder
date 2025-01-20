@@ -3,7 +3,7 @@
         <div class="footer card-footer text-left bg-gray-300">
             <div class="flex flex-row p-1">
                 <div class="flex-col flex-1 ">
-                    <h2 class="text-xl font-bold">Foodie</h2>
+                    <img src="/images/logo.png" alt="Keyna Cafe Logo" class="w-16 h-auto">
 
                     <div class="flex flex-row">
                         <button class="mr-3 hover:text-blue-700">Store Locations</button>
